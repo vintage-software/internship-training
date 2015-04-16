@@ -1,5 +1,7 @@
 #Developer Training Vintage Software
 
+Developer training program for vintage software.
+
 ##Stage 1: HTML/CSS
 
 Learn how to build a single web page with HTML and CSS
