@@ -18,7 +18,7 @@ Learn how to build a web pages with HTML and CSS
 
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
-- Create module and Prototype
+- Create module and a Prototype chain
 - [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
 - Review progress with Senior Developer
 
