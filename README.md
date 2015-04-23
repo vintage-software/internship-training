@@ -14,8 +14,7 @@ Learn how to build a web pages with HTML and CSS
 - Create one to two pages for your website from what you have learned. 
 - Review progress with Senior Front-end Developer
 
-##Stage 2: JavaScript
-
+##Stage 2: JavaScript Fundamentals
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - Create module and a Prototype chain
