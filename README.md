@@ -7,12 +7,10 @@ Developer training program for vintage software.
 Learn how to build a web pages with HTML and CSS
 
 - Complete 
-  [Treehouse "How ot make a website"](http://teamtreehouse.com/library/how-to-make-a-website)
-  [Treehouse "CSS Basics"](http://teamtreehouse.com/library/css-basics)
-  [Treehouse "Responsive Layouts"](http://teamtreehouse.com/library/responsive-layouts)
-  [Treehouse "HTML Forms"](http://teamtreehouse.com/library/html-forms)
-  
-
+  - [Treehouse "How ot make a website"](http://teamtreehouse.com/library/how-to-make-a-website)
+  - [Treehouse "CSS Basics"](http://teamtreehouse.com/library/css-basics)
+  - [Treehouse "Responsive Layouts"](http://teamtreehouse.com/library/responsive-layouts)
+  - [Treehouse "HTML Forms"](http://teamtreehouse.com/library/html-forms)
 - Create one to two pages for your website from what you have learned. 
 - Review progress with Senior Front-end Developer
 
