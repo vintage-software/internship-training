@@ -19,10 +19,14 @@ Learn how to build a web pages with HTML and CSS
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - Create module and a Prototype chain
-- Jasmine Unit tests intro
+
+##Stage 3: Advanced JavaScript
+- Jasmine Unit Testing
+- ES6
+- Gulp tasks and ESLint
 - Review progress with Senior Developer
 
-##Stage 3: Angular 1.x
+##Stage 4: Angular 1.x
 - [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
 - [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 
