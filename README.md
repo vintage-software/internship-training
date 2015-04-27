@@ -15,12 +15,16 @@ Learn how to build a web pages with HTML and CSS
 - Review progress with Senior Front-end Developer
 
 ##Stage 2: JavaScript Fundamentals
+- [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - Create module and a Prototype chain
-- [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
+- Jasmine Unit tests intro
 - Review progress with Senior Developer
-
+- 
+##Stage 3: Angular 1.x
+- [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
+- [Angular Best Practices](http://www.pluralsight.com/courses/angular-best-practices)
 
 References
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
