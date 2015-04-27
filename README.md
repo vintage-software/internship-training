@@ -24,13 +24,13 @@ Learn how to build a web pages with HTML and CSS
 - 
 ##Stage 3: Angular 1.x
 - [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
-- [Angular Best Practices](http://www.pluralsight.com/courses/angular-best-practices)
+- [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 
 References
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - ['this' in JavaScript](http://toddmotto.com/understanding-the-this-keyword-in-javascript/)
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-
+- [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
 With what you have learned about JavaScript add new interactions or features to demonstrate (note: will work on ideas for what to build)
