@@ -28,6 +28,7 @@ Learn how to build a web pages with HTML and CSS
 
 ##Stage 4: Angular 1.x
 - [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
+- Project/Website
 - [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 
 ###References
