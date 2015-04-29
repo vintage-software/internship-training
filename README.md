@@ -11,6 +11,7 @@ Learn how to build a web pages with HTML and CSS
   - [Treehouse "CSS Basics"](http://teamtreehouse.com/library/css-basics)
   - [Treehouse "Responsive Layouts"](http://teamtreehouse.com/library/responsive-layouts)
   - [Treehouse "HTML Forms"](http://teamtreehouse.com/library/html-forms)
+  - [Treehouse "AJAX Basics"](http://teamtreehouse.com/library/ajax-basics)
 - Create one to two pages for your website from what you have learned. 
 - Review progress with Senior Front-end Developer
 
