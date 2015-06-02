@@ -17,6 +17,7 @@ Learn how to build responsive web pages with HTML and CSS
 
 ##Stage 2: JavaScript Fundamentals
 - [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
+    - Skip intro, OLOO and Asequence 
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - Create module and a Prototype chain
