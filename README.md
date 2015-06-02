@@ -4,7 +4,7 @@ Developer training program for vintage software.
 
 ##Stage 1: HTML/CSS
 
-Learn how to build a web pages with HTML and CSS
+Learn how to build responsive web pages with HTML and CSS
 
 - Complete 
   - [Treehouse "How ot make a website"](http://teamtreehouse.com/library/how-to-make-a-website)
