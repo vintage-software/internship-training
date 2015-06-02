@@ -6,14 +6,14 @@ Developer training program for vintage software.
 
 Learn how to build responsive web pages with HTML and CSS
 
-- Complete 
+- Complete
   - [Treehouse "How ot make a website"](http://teamtreehouse.com/library/how-to-make-a-website)
   - [Treehouse "CSS Basics"](http://teamtreehouse.com/library/css-basics)
   - [Treehouse "Responsive Layouts"](http://teamtreehouse.com/library/responsive-layouts)
   - [Treehouse "HTML Forms"](http://teamtreehouse.com/library/html-forms)
   - [Treehouse "AJAX Basics"](http://teamtreehouse.com/library/ajax-basics)
-- Create one to two pages for your website from what you have learned. 
-- Review progress with Senior Front-end Developer
+- Create two to three pages for your website from what you have learned. 
+- Review progress with Senior Front-End Developer
 
 ##Stage 2: JavaScript Fundamentals
 - [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
