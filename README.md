@@ -23,10 +23,9 @@ Learn how to build responsive web pages with HTML and CSS
 - Create module and a Prototype chain
 
 ##Stage 3: Advanced JavaScript
-- Jasmine Unit Testing
 - ES6
 - Gulp tasks and ESLint
-- Review progress with Senior Developer
+- Jasmine Unit Testing
 
 ##Stage 4: Angular 1.x
 - [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
