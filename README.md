@@ -43,9 +43,9 @@ Learn how to build responsive web pages with HTML and CSS
 - Review progress with Senior Front-End Developer
 
 Additional Resources
-[Mozilla](https://developer.mozilla.org/en-US/)
-[CSS Tricks](https://css-tricks.com/)
-[Team Treehouse](https://teamtreehouse.com/)
+- [Mozilla](https://developer.mozilla.org/en-US/)
+- [CSS Tricks](https://css-tricks.com/)
+- [Team Treehouse](https://teamtreehouse.com/)
 
 ##Stage 4: C# (3-5 days)
 
