@@ -12,6 +12,7 @@ Learn how to build responsive web pages with HTML and CSS
   - [Treehouse "Responsive Layouts"](http://teamtreehouse.com/library/responsive-layouts)
   - [Treehouse "HTML Forms"](http://teamtreehouse.com/library/html-forms)
   - [Treehouse "AJAX Basics"](http://teamtreehouse.com/library/ajax-basics)
+  - [http://teamtreehouse.com/library/sass-basics](http://teamtreehouse.com/library/sass-basics)(If time)
 - Create two to three pages for your website from what you have learned. 
 - Review progress with Senior Front-End Developer
 
