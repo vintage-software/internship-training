@@ -10,7 +10,7 @@ Learn how to write clean, maintainable, extensible code
 - [Pluralsight "Writing Code for Humans"](http://www.pluralsight.com/courses/writing-clean-code-humans)
 - Clean code case study
 
-#Additional Resources
+###Additional Resources
 - [Clean Coders "Ep 1 - Clean Code"](https://cleancoders.com/episode/clean-code-episode-1/show)
 - [Clean Coders "Ep 2 - Names++"](https://cleancoders.com/episode/clean-code-episode-2/show)
 - [Clean Coders "Ep 4 - Function Structure"](https://cleancoders.com/episode/clean-code-episode-4/show)
