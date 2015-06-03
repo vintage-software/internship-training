@@ -2,7 +2,29 @@
 
 Developer training program for vintage software.
 
-##Stage 1: HTML/CSS
+##Stage 1: Clean Code (1 day)
+
+Learn how to write clean, maintainable, extensible code
+
+- [Clean Coders "Ep 3 - Functions"](https://cleancoders.com/episode/clean-code-episode-3/show)
+- [Pluralsight "Writing Code for Humans"](http://www.pluralsight.com/courses/writing-clean-code-humans)
+- Clean code case study
+
+#Additional Resources
+- [Clean Coders "Ep 1 - Clean Code"](https://cleancoders.com/episode/clean-code-episode-1/show)
+- [Clean Coders "Ep 2 - Names++"](https://cleancoders.com/episode/clean-code-episode-2/show)
+- [Clean Coders "Ep 4 - Function Structure"](https://cleancoders.com/episode/clean-code-episode-4/show)
+- [Clean Coders "Ep 5 - Form"](https://cleancoders.com/episode/clean-code-episode-5/show)
+
+##Stage 2: History of the Web (1 day)
+
+- History of the Web
+- Web Request Tracing
+
+#Additional Resources
+- [YouTube "How Instagram Works"](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
+
+##Stage 3: HTML/CSS (3-5 days)
 
 Learn how to build responsive web pages with HTML and CSS
 
@@ -16,7 +38,13 @@ Learn how to build responsive web pages with HTML and CSS
 - Create two to three pages for your website from what you have learned. 
 - Review progress with Senior Front-End Developer
 
-##Stage 2: JavaScript Fundamentals
+##Stage 4: RESTful API (7-9 Days)
+
+Learn how to create a RESTful API with C#
+
+- 
+
+##Stage 4: JavaScript Fundamentals
 - [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
     - Skip intro, OLOO and Asequence 
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
