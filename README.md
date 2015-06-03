@@ -65,6 +65,10 @@ Additional Resources
 - [Project Euler](https://projecteuler.net/)
 - [Math Is Fun "Binary Combinations"](http://www.mathsisfun.com/binary-combinations.html)
 - [Math Is Fun "Combinations-Permutations"](http://www.mathsisfun.com/combinatorics/combinations-permutations.html)
+- [Pluralsight "C# Fundamentals with C# 5.0"](http://www.pluralsight.com/courses/csharp-fundamentals-csharp5)
+- [Pluralsight "Object-Oriented Programming Fundamentals in C#"](http://www.pluralsight.com/courses/object-oriented-programming-fundamentals-csharp)
+- [Pluralsight "C# Generics"](http://www.pluralsight.com/courses/csharp-generics)
+- [Pluralsight "C# Interfaces"](http://www.pluralsight.com/courses/csharp-interfaces)
 
 ##Stage 5: RESTful API (2-3 days)
 
