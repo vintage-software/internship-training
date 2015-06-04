@@ -46,6 +46,7 @@ Additional Resources
 - [Mozilla](https://developer.mozilla.org/en-US/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Team Treehouse](https://teamtreehouse.com/)
+- [Cory Bateman "Core Grid"](http://splintercode.github.io/core-grid/)
 
 ##Stage 4: C# (3-5 days)
 
@@ -56,8 +57,8 @@ Learn C#
 - 64 Bit Integer Adding Homework
 - [MSDN "C# Operators"](https://msdn.microsoft.com/en-us/library/6a71f45d.aspx)
 - "What Value Returns False" Homework
-- [Vintage YouTube "C# Fundamentals Part II"](https://www.youtube.com/watch?v=xN4dnUZZVsY) (class / struct / abstract / interface / virtual / override / new / overload / oper override / Nullable)
-- [Vintage YouTube "C# Fundamentals Part III"](https://www.youtube.com/watch?v=RwMfuz6-ybI) (compiling / app.config / fields / properties / static / instance / linq / lambda / generics / reflection)
+- [Steve Haar "C# Fundamentals Part II"](https://www.youtube.com/watch?v=xN4dnUZZVsY) (class / struct / abstract / interface / virtual / override / new / overload / oper override / Nullable)
+- [Steve Haar "C# Fundamentals Part III"](https://www.youtube.com/watch?v=RwMfuz6-ybI) (compiling / app.config / fields / properties / static / instance / linq / lambda / generics / reflection)
 
 Additional Resources
 - [StackOverflow "Compiled vs Interpreted"](http://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages)
