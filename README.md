@@ -91,28 +91,43 @@ Additional Resources
 - [Clean Coders "Ep 12 - The Interface Segregation Principle"](https://cleancoders.com/episode/clean-code-episode-5/show)
 - [Clean Coders "Ep 13 - The Dependency Inversion Principle"](https://cleancoders.com/episode/clean-code-episode-5/show)
 
-##Stage 6: JavaScript Fundamentals
+##Stage 6: JavaScript (3-5 days)
 - [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
     - Skip intro, OLOO and Asequence 
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - Create module and a Prototype chain
 
-##Stage 7: Advanced JavaScript
-- ES6
-- Gulp tasks and ESLint
-- Jasmine Unit Testing
-
-##Stage 8: Angular 1.x
-- [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
-- Project/Website
-- [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
-
-###References
+Additional Resources
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - ['this' in JavaScript](http://toddmotto.com/understanding-the-this-keyword-in-javascript/)
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+
+##Stage 7: Consuming RESTful Api with Angular 1.x (3-5 days)
+- [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
+- Project/Website
+- [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
+
+Additional Resources
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
-With what you have learned about JavaScript add new interactions or features to demonstrate (note: will work on ideas for what to build)
+##Stage 8: SQL (3-5 days)
+-
+
+##Stage 9: Design Patterns (2-4 days)
+-
+
+##Stage 10: Source Control (1 day)
+-
+
+##Advanced Topics
+
+- Web Performance
+- Web Security
+- Search Engine Optimization
+- Legacy Web (ASP.NET Webforms and MVC)
+- Advanced JavaScript (ES6, Gulp, ESLint, Jasmine)
+- Advanced CSS (SASS)
+- Test Driven Development
+- iOS
