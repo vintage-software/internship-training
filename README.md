@@ -37,8 +37,7 @@ Learn how to build responsive web pages with HTML and CSS
   - [Treehouse "CSS Basics"](http://teamtreehouse.com/library/css-basics)
   - [Treehouse "Responsive Layouts"](http://teamtreehouse.com/library/responsive-layouts)
   - [Treehouse "HTML Forms"](http://teamtreehouse.com/library/html-forms)
-  - [Treehouse "AJAX Basics"](http://teamtreehouse.com/library/ajax-basics)
-  - [Treehouse "Sass Basics"](http://teamtreehouse.com/library/sass-basics) (If time)
+  - [Treehouse "Sass Basics"](http://teamtreehouse.com/library/sass-basics)
 - Create two to three pages for your website from what you have learned. 
 - Review progress with Senior Front-End Developer
 
@@ -97,6 +96,7 @@ Additional Resources
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - Create module and a Prototype chain
+- [Treehouse "AJAX Basics"](http://teamtreehouse.com/library/ajax-basics)
 
 Additional Resources
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
