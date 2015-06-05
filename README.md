@@ -1,4 +1,4 @@
-#Software Engineer Training Vintage Software
+#Software Engineer Training - Vintage Software
 
 Developer training program for vintage software.
 
