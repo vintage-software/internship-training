@@ -53,11 +53,13 @@ Learn C#
 
 - Types of Languages (Compiled/Interpreted, Strong/Weak, Static/Dynamic)
 - [MSDN "C# Types"](https://msdn.microsoft.com/en-us/library/ya5y69ds.aspx)
-- 64 Bit Integer Adding Homework
+- "What is Output" Homework
 - [MSDN "C# Operators"](https://msdn.microsoft.com/en-us/library/6a71f45d.aspx)
 - "What Value Returns False" Homework
 - [Steve Haar "C# Fundamentals Part II"](https://www.youtube.com/watch?v=xN4dnUZZVsY) (class / struct / abstract / interface / virtual / override / new / overload / oper override / Nullable)
 - [Steve Haar "C# Fundamentals Part III"](https://www.youtube.com/watch?v=RwMfuz6-ybI) (compiling / app.config / fields / properties / static / instance / linq / lambda / generics / reflection)
+- [MSDN "Passing Parameters"](https://msdn.microsoft.com/en-us/library/0f66670z.aspx) (reference vs value)
+- "Reference / Value" Homework
 
 Additional Resources
 - [StackOverflow "Compiled vs Interpreted"](http://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages)
