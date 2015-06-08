@@ -28,7 +28,7 @@ Learn the history of HTML, CSS and JavaScript and what really happens when a bro
 Additional Resources
 - [YouTube "How Instagram Works"](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
 
-##Stage 3: HTML/CSS (3-5 days)
+##Stage 3: HTML/CSS (3 days)
 
 Learn how to build responsive web pages with HTML and CSS
 
