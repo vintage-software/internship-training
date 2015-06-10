@@ -64,6 +64,7 @@ Learn C#
 Additional Resources
 - [StackOverflow "Compiled vs Interpreted"](http://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages)
 - [StackOverflow "Static/Dynamic vs Strong/Weak"](http://stackoverflow.com/questions/2351190/static-dynamic-vs-strong-weak)
+- [Computerphile - "Binary: Plusses & Minuses (Why We Use Two's Complement)"](https://www.youtube.com/watch?v=lKTsv6iVxV4)
 - [Project Euler](https://projecteuler.net/)
 - [Math Is Fun "Binary Combinations"](http://www.mathsisfun.com/binary-combinations.html)
 - [Math Is Fun "Combinations-Permutations"](http://www.mathsisfun.com/combinatorics/combinations-permutations.html)
