@@ -128,8 +128,8 @@ Additional Resources
 -
 
 ##Becoming a Software Craftsman
-- [Outlier Developer](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) (video)
 - [The Software Craftsman](https://www.safaribooksonline.com/library/view/the-software-craftsman/9780134052625/) (book)
+- [Outlier Developer](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) (video)
 - [Soft Skills: The software developer's life manual](https://www.safaribooksonline.com/library/view/soft-skills-the/9781617292392/) (book)
 
 ##Advanced Topics
