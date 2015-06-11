@@ -127,6 +127,11 @@ Additional Resources
 ##Stage 10: Source Control (1 day)
 -
 
+##Becoming a Software Craftsman
+- [Outlier Developer](http://www.pluralsight.com/courses/career-reboot-for-developer-mind)
+- [The Software Craftsman](https://www.safaribooksonline.com/library/view/the-software-craftsman/9780134052625/)
+- [Soft Skills: The software developer's life manual](https://www.safaribooksonline.com/library/view/soft-skills-the/9781617292392/)
+
 ##Advanced Topics
 
 - Web Performance
@@ -138,7 +143,4 @@ Additional Resources
 - Test Driven Development
 - iOS
 - 
-##Becoming a Software Scraftsman
-- [Outlier Developer](http://www.pluralsight.com/courses/career-reboot-for-developer-mind)
-- [The Software Scraftsman](https://www.safaribooksonline.com/library/view/the-software-craftsman/9780134052625/)
-- [Soft Skills: The software developer's life manual](https://www.safaribooksonline.com/library/view/soft-skills-the/9781617292392/)https://www.safaribooksonline.com/library/view/soft-skills-the/9781617292392/
+
