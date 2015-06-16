@@ -102,7 +102,6 @@ Additional Resources
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - Create module and a Prototype chain
-- [Treehouse "AJAX Basics"](http://teamtreehouse.com/library/ajax-basics)
 
 Additional Resources
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
