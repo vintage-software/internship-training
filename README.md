@@ -98,12 +98,13 @@ Additional Resources
 
 ##Stage 6: JavaScript (3-5 days)
 - [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
-    - Skip intro, OLOO and Asequence 
+    - **Skip** Intro, OLOO and Asequence 
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - Create module and a Prototype chain
 
 Additional Resources
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - ['this' in JavaScript](http://toddmotto.com/understanding-the-this-keyword-in-javascript/)
@@ -141,5 +142,5 @@ Additional Resources
 - Advanced CSS (SASS)
 - Test Driven Development
 - iOS
-- 
+
 
