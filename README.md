@@ -47,7 +47,7 @@ Additional Resources
 - [Team Treehouse](https://teamtreehouse.com/)
 - [Cory Bateman "Core Grid"](http://splintercode.github.io/core-grid/)
 
-##Stage 4: C# (3-5 days)
+##Stage 4: C# (3 days)
 
 Learn C#
 
@@ -75,15 +75,13 @@ Additional Resources
 - [Pluralsight "C# Generics"](http://www.pluralsight.com/courses/csharp-generics)
 - [Pluralsight "C# Interfaces"](http://www.pluralsight.com/courses/csharp-interfaces)
 
-##Stage 5: RESTful API (2-3 days)
+##Stage 5: RESTful API (3 days)
 
 Learn how to create a RESTful API with C#
 
 - [Pluralsight "Architecting Applications for the Real World in .NET"](http://www.pluralsight.com/courses/architecting-applications-dotnet)
 - Build domain layer
 - Build service layer (DTO objects)
-- Build EF persistence layer
-- Build mapper layer
 - [Pluralsight "Building and Securing a RESTful API for Multiple Clients in ASP.NET"](http://www.pluralsight.com/courses/building-securing-restful-api-aspdotnet)
 - Create RESTful api (ASP.NET WebApi)
 
