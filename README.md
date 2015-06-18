@@ -101,14 +101,14 @@ Additional Resources
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 
 
-Additional Resources (1-2 days)
+Additional Resources 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 - ['this' in JavaScript](http://toddmotto.com/understanding-the-this-keyword-in-javascript/)
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
-##Stage 7: jQuery and the DOM
+##Stage 7: jQuery and the DOM (1-2 days)
 - [jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
 - [AJAX Basics](http://teamtreehouse.com/library/ajax-basics)
 
