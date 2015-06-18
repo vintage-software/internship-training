@@ -101,7 +101,7 @@ Additional Resources
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
 
 
-Additional Resources
+Additional Resources (1-2 days)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
