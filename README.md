@@ -99,7 +99,7 @@ Additional Resources
     - **Skip** Intro, OLOO and Asequence 
 - [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
 - [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
-- Create module and a Prototype chain
+
 
 Additional Resources
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -108,21 +108,26 @@ Additional Resources
 - ['this' in JavaScript](http://toddmotto.com/understanding-the-this-keyword-in-javascript/)
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
-##Stage 7: Consuming RESTful Api with Angular 1.x (3-5 days)
+##Stage 7: jQuery and the DOM
+- [jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
+- [AJAX Basics](http://teamtreehouse.com/library/ajax-basics)
+
+##Stage 8: Consuming RESTful Api with Angular 1.x (3-5 days)
 - [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
 - Project/Website
 - [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
+- [Creating a taks runner with GulpJS](http://teamtreehouse.com/library/gulp-basics)
 
 Additional Resources
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
-##Stage 8: SQL (3-5 days)
+##Stage 9: SQL (3-5 days)
 -
 
-##Stage 9: Design Patterns (2-4 days)
+##Stage 10: Design Patterns (2-4 days)
 -
 
-##Stage 10: Source Control (1 day)
+##Stage 11: Source Control (1 day)
 -
 
 ##Becoming a Software Craftsman
