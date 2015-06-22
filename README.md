@@ -113,6 +113,7 @@ Additional Resources
 - [AJAX Basics](http://teamtreehouse.com/library/ajax-basics)
 
 ##Stage 8: Consuming RESTful Api with Angular 1.x (3-5 days)
+- [Angular The Big Picture](http://www.pluralsight.com/courses/angular-big-picture)
 - [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
 - Project/Website
 - [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
