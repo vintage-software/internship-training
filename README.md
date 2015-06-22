@@ -121,6 +121,10 @@ Additional Resources
 Additional Resources
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
+##Stage 9 ES6 and Beyond
+- [JSNext](http://www.pluralsight.com/courses/js-next-es6)
+- [GulpJS](http://teamtreehouse.com/library/gulp-basics)
+
 ##Stage 9: SQL (3-5 days)
 -
 
