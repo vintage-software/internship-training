@@ -116,14 +116,16 @@ Additional Resources
 - [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
 - Project/Website
 - [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
-- [Creating a taks runner with GulpJS](http://teamtreehouse.com/library/gulp-basics)
+- Update Project to follow best practices
+- [Creating a task runner with GulpJS](http://teamtreehouse.com/library/gulp-basics)
+- Create a gulp task to concatenate and minify JS and compile Sass
 
 Additional Resources
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
 ##Stage 9 ES6 and Beyond
 - [JSNext](http://www.pluralsight.com/courses/js-next-es6)
-- [GulpJS](http://teamtreehouse.com/library/gulp-basics)
+- Update existing ES5 app to use ES6+
 
 ##Stage 9: SQL (3-5 days)
 -
