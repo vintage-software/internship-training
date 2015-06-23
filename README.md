@@ -124,17 +124,17 @@ Additional Resources
 Additional Resources
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
-##Stage 9 ES6 and Beyond
+##Stage 9: ES6 and Beyond
 - [JSNext](http://www.pluralsight.com/courses/js-next-es6)
 - Update existing ES5 app to use ES6+
 
-##Stage 9: SQL (3-5 days)
+##Stage 10: SQL (3-5 days)
 -
 
-##Stage 10: Design Patterns (2-4 days)
+##Stage 11: Design Patterns (2-4 days)
 -
 
-##Stage 11: Source Control (1 day)
+##Stage 12: Source Control (1 day)
 -
 
 ##Becoming a Software Craftsman
