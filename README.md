@@ -114,19 +114,20 @@ Additional Resources
 
 ##Stage 8: Consuming RESTful Api with Angular 1.x (3-5 days)
 - [Angular The Big Picture](http://www.pluralsight.com/courses/angular-big-picture)
-- [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals)
+- [Angularjs get started](http://www.pluralsight.com/courses/angularjs-get-started)
+- [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals) (optional)
 - Project/Website
 - [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 - Update Project to follow best practices
-- [Creating a task runner with GulpJS](http://teamtreehouse.com/library/gulp-basics)
-- Create a gulp task to concatenate and minify JS and compile Sass
 
 Additional Resources
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 
 ##Stage 9: ES6 and Beyond
 - [JSNext](http://www.pluralsight.com/courses/js-next-es6)
-- Update existing ES5 app to use ES6+
+- Update existing ES5 app to use ES6
+- [Creating a task runner with GulpJS](http://teamtreehouse.com/library/gulp-basics)
+- Create a gulp task to concatenate and minify JS and compile Sass+
 
 ##Stage 10: SQL (3-5 days)
 -
