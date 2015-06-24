@@ -114,7 +114,7 @@ Additional Resources
 
 ##Stage 8: Consuming RESTful Api with Angular 1.x (3-5 days)
 - [Angular The Big Picture](http://www.pluralsight.com/courses/angular-big-picture)
-- [Angularjs get started](http://www.pluralsight.com/courses/angularjs-get-started)
+- ~~[Angularjs get started](http://www.pluralsight.com/courses/angularjs-get-started)~~
 - [Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals) (optional)
 - Project/Website
 - [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
