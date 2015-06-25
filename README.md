@@ -95,63 +95,62 @@ Additional Resources
 - [Clean Coders "Ep 13 - The Dependency Inversion Principle"](https://cleancoders.com/episode/clean-code-episode-5/show)
 
 ##Stage 6: JavaScript (3-5 days)
-- [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript)
+- [Pluralsight "Advanced JavaScript"](http://www.pluralsight.com/courses/advanced-javascript)
     - **Skip** Intro, OLOO and Asequence 
-- [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
-- [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
+- [Cory Bateman "JavaScript Module Pattern Basics"](http://corycode.me/blog/javascript-module-pattern-basics)
+- [Cory Bateman "JavaScript Prototypal Inheritance"](http://corycode.me/blog/javascript-prototypal-inheritance)
 
 
 Additional Resources 
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [The Module Pattern](http://corycode.me/blog/javascript-module-pattern-basics)
-- [Prototypal Inheritance](http://corycode.me/blog/javascript-prototypal-inheritance)
-- ['this' in JavaScript](http://toddmotto.com/understanding-the-this-keyword-in-javascript/)
+- [Kyle Simpson "You Don't Know JS"](https://github.com/getify/You-Dont-Know-JS)
+- [Cory Bateman "JavaScript Module Pattern Basics"](http://corycode.me/blog/javascript-module-pattern-basics)
+- [Cory Bateman "JavaScript Prototypal Inheritance"](http://corycode.me/blog/javascript-prototypal-inheritance)
+- [Todd Motto "Understanding the 'this' keyword in JavaScript"](http://toddmotto.com/understanding-the-this-keyword-in-javascript/)
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 ##Stage 7: jQuery and the DOM (1-2 days)
-- [jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
-- [AJAX Basics](http://teamtreehouse.com/library/ajax-basics)
+- [Treehouse "jQuery Basics"](http://teamtreehouse.com/library/jquery-basics)
+- [Treehouse "AJAX Basics"](http://teamtreehouse.com/library/ajax-basics)
 
 ##Stage 8: Consuming RESTful Api with Angular 1.x (3-5 days)
-- [Angular The Big Picture](http://www.pluralsight.com/courses/angular-big-picture)
-- [Angularjs get started](http://www.pluralsight.com/courses/angularjs-get-started)
-- ~~[Angular Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals) (optional)~~
+- [Pluralsight "Angular The Big Picture"](http://www.pluralsight.com/courses/angular-big-picture)
+- [Pluralsight "AngularJS Get Started"](http://www.pluralsight.com/courses/angularjs-get-started)
+- ~~[Pluralsight "AngularJS Fundamentals"](http://www.pluralsight.com/courses/angularjs-fundamentals) (optional)~~
 - Project/Website
-- [Angular Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
+- [Pluralsight "AngularJS Patterns Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 - Update Project to follow best practices
 
 Additional Resources
-- [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
+- [John Papa "Angular Styleguide"](https://github.com/johnpapa/angular-styleguide)
 
-##Stage 9: ES6 and Beyond
-- [JSNext](http://www.pluralsight.com/courses/js-next-es6)
-- Update existing ES5 app to use ES6
-- [Creating a task runner with GulpJS](http://teamtreehouse.com/library/gulp-basics)
-- Create a gulp task to concatenate and minify JS and compile Sass+
-
-##Stage 10: SQL (3-5 days)
+##Stage 9: SQL (3-5 days)
 -
 
-##Stage 11: Design Patterns (2-4 days)
+##Stage 10: Design Patterns (2-4 days)
 -
 
-##Stage 12: Source Control (1 day)
+##Stage 11: Source Control (1 day)
 -
+
+##Advanced Topics
 
 ##Becoming a Software Craftsman
 - [The Software Craftsman](https://www.safaribooksonline.com/library/view/the-software-craftsman/9780134052625/) (book)
 - [Outlier Developer](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) (video)
 - [Soft Skills: The software developer's life manual](https://www.safaribooksonline.com/library/view/soft-skills-the/9781617292392/) (book)
 
-##Advanced Topics
+##Advanced JavaScript
+- [Pluralsight "JS.Next: ES6](http://www.pluralsight.com/courses/js-next-es6)
+- Update existing ES5 app to use ES6
+- [Treehouse "Gulp Basics"](http://teamtreehouse.com/library/gulp-basics)
+- Create a gulp task to concatenate and minify JS and compile Sass+
+- ESLint
+- Jasmine
 
 - Web Performance
 - Web Security
 - Search Engine Optimization
 - Legacy Web (ASP.NET Webforms and MVC)
-- Advanced JavaScript (ES6, Gulp, ESLint, Jasmine)
 - Advanced CSS (SASS)
 - Test Driven Development
 - iOS
-
-
