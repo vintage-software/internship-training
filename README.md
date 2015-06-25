@@ -123,7 +123,17 @@ Additional Resources
 - [John Papa "Angular Styleguide"](https://github.com/johnpapa/angular-styleguide)
 
 ##Stage 9: SQL (3-5 days)
--
+- Database Theory
+    - ACID Principles
+    - Normal Forms
+- Data Definition Language (DDL)
+- Data Manipulation Language (DML)
+- Transactional Control Language (TCL)
+- Data Control Language (DCL)
+
+Additional Resources
+- [Pluralsight "Introduction to SQL"](http://www.pluralsight.com/courses/introduction-to-sql)
+- [Treehouse "Database Foundations"](http://teamtreehouse.com/library/database-foundations)
 
 ##Stage 10: Design Patterns (2-4 days)
 -
