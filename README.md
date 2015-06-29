@@ -93,7 +93,7 @@ Additional Resources
 - [Clean Coders "Ep 12 - The Interface Segregation Principle"](https://cleancoders.com/episode/clean-code-episode-5/show)
 - [Clean Coders "Ep 13 - The Dependency Inversion Principle"](https://cleancoders.com/episode/clean-code-episode-5/show)
 
-##Stage 6: JavaScript (3-5 days)
+##Stage 6: JavaScript (3 days)
 - [Pluralsight "Advanced JavaScript"](http://www.pluralsight.com/courses/advanced-javascript)
     - **Skip** Intro, OLOO and Asequence 
 - [Cory Bateman "JavaScript Module Pattern Basics"](http://corycode.me/blog/javascript-module-pattern-basics)
@@ -107,11 +107,11 @@ Additional Resources
 - [Todd Motto "Understanding the 'this' keyword in JavaScript"](http://toddmotto.com/understanding-the-this-keyword-in-javascript/)
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
-##Stage 7: jQuery and the DOM (1-2 days)
+##Stage 7: jQuery and the DOM (1 day)
 - [Treehouse "jQuery Basics"](http://teamtreehouse.com/library/jquery-basics)
 - [Treehouse "AJAX Basics"](http://teamtreehouse.com/library/ajax-basics)
 
-##Stage 8: Consuming RESTful Api with Angular 1.x (3-5 days)
+##Stage 8: Consuming RESTful Api with Angular 1.x (5 days)
 - [Pluralsight "Angular The Big Picture"](http://www.pluralsight.com/courses/angular-big-picture)
 - [Pluralsight "AngularJS Get Started"](http://www.pluralsight.com/courses/angularjs-get-started)
 - ~~[Pluralsight "AngularJS Fundamentals"](http://www.pluralsight.com/courses/angularjs-fundamentals) (optional)~~
