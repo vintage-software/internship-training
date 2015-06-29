@@ -153,8 +153,8 @@ Additional Resources
 - Update existing ES5 app to use ES6
 - [Treehouse "Gulp Basics"](http://teamtreehouse.com/library/gulp-basics)
 - Create a gulp task to concatenate and minify JS and compile Sass+
-- ESLint
 - Jasmine
+- ESLint
 
 - Web Performance
 - Web Security
