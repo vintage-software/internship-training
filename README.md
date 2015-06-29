@@ -111,7 +111,7 @@ Additional Resources
 - [Treehouse "jQuery Basics"](http://teamtreehouse.com/library/jquery-basics)
 - [Treehouse "AJAX Basics"](http://teamtreehouse.com/library/ajax-basics)
 
-##Stage 8: Consuming RESTful Api with Angular 1.x (5 days)
+##Stage 8: Consuming RESTful Api with Angular 1.x (6 days)
 - [Pluralsight "Angular The Big Picture"](http://www.pluralsight.com/courses/angular-big-picture)
 - [Pluralsight "AngularJS Get Started"](http://www.pluralsight.com/courses/angularjs-get-started)
 - ~~[Pluralsight "AngularJS Fundamentals"](http://www.pluralsight.com/courses/angularjs-fundamentals) (optional)~~
