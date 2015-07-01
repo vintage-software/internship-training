@@ -126,6 +126,7 @@ Additional Resources
 - Database Theory
     - ACID Principles
     - Normal Forms
+- [MSDN "Data Types"](https://msdn.microsoft.com/en-us/library/ms187752.aspx)
 - Data Definition Language (DDL)
 - Data Manipulation Language (DML)
 - Transactional Control Language (TCL)
