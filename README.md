@@ -126,11 +126,12 @@ Additional Resources
 - Database Theory
     - ACID Principles
     - Normal Forms
-- [MSDN "Data Types"](https://msdn.microsoft.com/en-us/library/ms187752.aspx)
+- [MSDN "Data Types"](https://msdn.microsoft.com/en-us/library/ms187752(v=sql.110).aspx)
 - Data Definition Language (DDL)
 - Data Manipulation Language (DML)
 - Transactional Control Language (TCL)
 - Data Control Language (DCL)
+- Indexes / Optimization
 
 Additional Resources
 - [Pluralsight "Introduction to SQL"](http://www.pluralsight.com/courses/introduction-to-sql)
