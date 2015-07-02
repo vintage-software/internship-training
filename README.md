@@ -61,6 +61,7 @@ Learn C#
 - "New vs Override" Homework
 - "Reference / Value" Homework
 - "Complicated Linq Example"
+- "Around the Room with Linq"
 
 Additional Resources
 - [StackOverflow "Compiled vs Interpreted"](http://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages)
@@ -127,10 +128,8 @@ Additional Resources
     - ACID Principles
     - Normal Forms
 - [MSDN "Data Types"](https://msdn.microsoft.com/en-us/library/ms187752(v=sql.110).aspx)
-- Data Definition Language (DDL)
-- Data Manipulation Language (DML)
-- Transactional Control Language (TCL)
-- Data Control Language (DCL)
+- "Around the Room with SQL"
+- SQL Quiz
 - Indexes / Optimization
 
 Additional Resources
