@@ -123,7 +123,7 @@ Additional Resources
 Additional Resources
 - [John Papa "Angular Styleguide"](https://github.com/johnpapa/angular-styleguide)
 
-##Stage 9: SQL (3-5 days)
+##Stage 9: SQL (3 days)
 - Database Theory
     - ACID Principles
     - Normal Forms
@@ -136,8 +136,16 @@ Additional Resources
 - [Pluralsight "Introduction to SQL"](http://www.pluralsight.com/courses/introduction-to-sql)
 - [Treehouse "Database Foundations"](http://teamtreehouse.com/library/database-foundations)
 
-##Stage 10: Design Patterns (2-4 days)
--
+##Stage 10: Design Patterns (3 days)
+-Repository Pattern (Entity Framework)
+-Active Record (Vintage Software Generator)
+-Data Mapper Pattern (Martin Fowler)
+
+Additional Resources
+- [Pluralsight "Getting Started with Entity Framework 5"](http://www.pluralsight.com/courses/entity-framework5-getting-started)
+- [Pluralsight "Entity Framework 6: Ninja Edition - What's New in EF6"](http://www.pluralsight.com/courses/entity-framework-6-ninja-edition-whats-new)
+- [Pluralsight "Looking Ahead to Entity Framework 7"](http://www.pluralsight.com/courses/entity-framework-7-looking-ahead)
+- [Martin Fowler "Patterns of Enterprise Application Architecture"](http://www.amazon.com/dp/B008OHVDFM)
 
 ##Stage 11: Source Control (1 day)
 -
