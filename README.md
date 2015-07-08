@@ -135,13 +135,18 @@ Additional Resources
 Additional Resources
 - [Pluralsight "Introduction to SQL"](http://www.pluralsight.com/courses/introduction-to-sql)
 - [Treehouse "Database Foundations"](http://teamtreehouse.com/library/database-foundations)
+- [Pluralsight "SQL Server Fundamentals"](http://www.pluralsight.com/courses/sql-server-fundamentals)
+- [Pluralsight "SQL Server 2008 Database Development (70-433) Part 1"](http://www.pluralsight.com/courses/sql-server-2008-database-development-pt1)
 
 ##Stage 10: Design Patterns (3 days)
+-SQL Injection
+-Stored Procedures
 -Repository Pattern (Entity Framework)
 -Active Record (Vintage Software Generator)
 -Data Mapper Pattern (Martin Fowler)
 
 Additional Resources
+- [Pluralsight "Ethical Hacking: SQL Injection"](http://www.pluralsight.com/courses/ethical-hacking-sql-injection)
 - [Pluralsight "Getting Started with Entity Framework 5"](http://www.pluralsight.com/courses/entity-framework5-getting-started)
 - [Pluralsight "Entity Framework 6: Ninja Edition - What's New in EF6"](http://www.pluralsight.com/courses/entity-framework-6-ninja-edition-whats-new)
 - [Pluralsight "Looking Ahead to Entity Framework 7"](http://www.pluralsight.com/courses/entity-framework-7-looking-ahead)
