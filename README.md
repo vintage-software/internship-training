@@ -150,6 +150,7 @@ Additional Resources
 - [Pluralsight "Getting Started with Entity Framework 5"](http://www.pluralsight.com/courses/entity-framework5-getting-started)
 - [Pluralsight "Entity Framework 6: Ninja Edition - What's New in EF6"](http://www.pluralsight.com/courses/entity-framework-6-ninja-edition-whats-new)
 - [Pluralsight "Looking Ahead to Entity Framework 7"](http://www.pluralsight.com/courses/entity-framework-7-looking-ahead)
+- [Pluralsight "Entity Framework in the Enterprise"](http://www.pluralsight.com/courses/efarchitecture)
 - [Martin Fowler "Patterns of Enterprise Application Architecture"](http://www.amazon.com/dp/B008OHVDFM)
 
 ##Stage 11: Source Control (1 day)
