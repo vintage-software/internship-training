@@ -139,11 +139,11 @@ Additional Resources
 - [Pluralsight "SQL Server 2008 Database Development (70-433) Part 1"](http://www.pluralsight.com/courses/sql-server-2008-database-development-pt1)
 
 ##Stage 10: Design Patterns (3 days)
--SQL Injection
--Stored Procedures
--Repository Pattern (Entity Framework)
--Active Record (Vintage Software Generator)
--Data Mapper Pattern (Martin Fowler)
+- SQL Injection
+- Stored Procedures
+- Repository Pattern (Entity Framework)
+- Active Record (Vintage Software Generator)
+- Data Mapper Pattern (Martin Fowler)
 
 Additional Resources
 - [Pluralsight "Ethical Hacking: SQL Injection"](http://www.pluralsight.com/courses/ethical-hacking-sql-injection)
@@ -154,7 +154,12 @@ Additional Resources
 - [Martin Fowler "Patterns of Enterprise Application Architecture"](http://www.amazon.com/dp/B008OHVDFM)
 
 ##Stage 11: Source Control (1 day)
--
+- Git
+- Mercurial
+
+##Stage 12: Unit Testing (1 day)
+- C# Unit Testing (Visual Studio)
+- JavaScript Unit Testing (Jasmine)
 
 ##Advanced Topics
 
