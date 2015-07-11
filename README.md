@@ -170,10 +170,8 @@ Additional Resources
 
 ##Advanced JavaScript
 - [Pluralsight "JS.Next: ES6](http://www.pluralsight.com/courses/js-next-es6)
-- Update existing ES5 app to use ES6
 - [Treehouse "Gulp Basics"](http://teamtreehouse.com/library/gulp-basics)
-- Create a gulp task to concatenate and minify JS and compile Sass+
-- Jasmine
+- Jasmine/JavaScript Testing
 - ESLint
 
 - Web Performance
