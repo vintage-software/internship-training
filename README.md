@@ -173,7 +173,10 @@ Additional Resources
 - [Treehouse "Gulp Basics"](http://teamtreehouse.com/library/gulp-basics)
 - Jasmine/JavaScript Testing
 - ESLint
- 
+
+##Machine Learning
+- [Coursera "Machine Learning"](https://class.coursera.org/ml-005/lecture)
+
 ##Ect
 - Web Performance
 - Web Security
