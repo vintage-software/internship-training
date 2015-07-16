@@ -176,6 +176,12 @@ Additional Resources
 ##Machine Learning
 - [Coursera "Machine Learning"](https://class.coursera.org/ml-005/lecture)
 
+##MVC
+- [Pluralsight "One ASP.NET From Scratch"](http://www.pluralsight.com/courses/one-aspdotnet-from-scratch)
+- * MVC, Advanced MVC
+- [Pluralsight "Building Applications with ASP.NET MVC 4"](http://www.pluralsight.com/courses/mvc4-building)
+- * Controllers in ASP.NET MVC 4, Razor Views
+
 ##Ect
 - Web Performance
 - Web Security
