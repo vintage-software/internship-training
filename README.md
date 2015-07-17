@@ -44,7 +44,7 @@ Additional Resources
 - [Mozilla](https://developer.mozilla.org/en-US/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Team Treehouse](https://teamtreehouse.com/)
-- [Cory Bateman "Core Grid"](http://splintercode.github.io/core-grid/)
+- [Cory Rylan "Core Grid"](http://splintercode.github.io/core-grid/)
 
 ##Stage 4: C# (3 days)
 
@@ -95,16 +95,14 @@ Additional Resources
 - [Clean Coders "Ep 13 - The Dependency Inversion Principle"](https://cleancoders.com/episode/clean-code-episode-5/show)
 
 ##Stage 6: JavaScript (3 days)
+- [Object Oriented JavaScript Treehouse](http://teamtreehouse.com/library/objectoriented-javascript)
 - [Pluralsight "Advanced JavaScript"](http://www.pluralsight.com/courses/advanced-javascript)
     - **Skip** Intro, OLOO and Asequence 
-- [Cory Bateman "JavaScript Module Pattern Basics"](http://corycode.me/blog/javascript-module-pattern-basics)
-- [Cory Bateman "JavaScript Prototypal Inheritance"](http://corycode.me/blog/javascript-prototypal-inheritance)
-
 
 Additional Resources 
 - [Kyle Simpson "You Don't Know JS"](https://github.com/getify/You-Dont-Know-JS)
-- [Cory Bateman "JavaScript Module Pattern Basics"](http://corycode.me/blog/javascript-module-pattern-basics)
-- [Cory Bateman "JavaScript Prototypal Inheritance"](http://corycode.me/blog/javascript-prototypal-inheritance)
+- [Cory Rylan "JavaScript Module Pattern Basics"](http://coryrylan.com/blog/javascript-module-pattern-basics)
+- [Cory Rylan "JavaScript Prototypal Inheritance"](http://coryrylan.com/blog/javascript-prototypal-inheritance)
 - [Todd Motto "Understanding the 'this' keyword in JavaScript"](http://toddmotto.com/understanding-the-this-keyword-in-javascript/)
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
@@ -153,36 +151,38 @@ Additional Resources
 - [Martin Fowler "Patterns of Enterprise Application Architecture"](http://www.amazon.com/dp/B008OHVDFM)
 
 ##Stage 11: Source Control (1 day)
+- [https://github.com/vintage-software/example-repo-git-javascript-testing](https://github.com/vintage-software/example-repo-git-javascript-testing)
 - Git
 - Mercurial
 
 ##Stage 12: Unit Testing (1 day)
+- [https://github.com/vintage-software/example-repo-git-javascript-testing](https://github.com/vintage-software/example-repo-git-javascript-testing)
 - C# Unit Testing (Visual Studio)
 - JavaScript Unit Testing (Jasmine)
 
 ##Advanced Topics
 
-##Becoming a Software Craftsman
+###Becoming a Software Craftsman
 - [The Software Craftsman](https://www.safaribooksonline.com/library/view/the-software-craftsman/9780134052625/) (book)
 - [Outlier Developer](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) (video)
 - [Soft Skills: The software developer's life manual](https://www.safaribooksonline.com/library/view/soft-skills-the/9781617292392/) (book)
 
-##Advanced JavaScript
+###Advanced JavaScript
 - [Pluralsight "JS.Next: ES6](http://www.pluralsight.com/courses/js-next-es6)
 - [Treehouse "Gulp Basics"](http://teamtreehouse.com/library/gulp-basics)
 - Jasmine/JavaScript Testing
 - ESLint
 
-##Machine Learning
+###Machine Learning
 - [Coursera "Machine Learning"](https://class.coursera.org/ml-005/lecture)
 
-##MVC
+###MVC
 - [Pluralsight "One ASP.NET From Scratch"](http://www.pluralsight.com/courses/one-aspdotnet-from-scratch)
 - * MVC, Advanced MVC
 - [Pluralsight "Building Applications with ASP.NET MVC 4"](http://www.pluralsight.com/courses/mvc4-building)
 - * Controllers in ASP.NET MVC 4, Razor Views
 
-##Ect
+###Ect
 - Web Performance
 - Web Security
 - Search Engine Optimization
